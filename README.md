@@ -48,5 +48,5 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/your_username/loggix/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/KURiC1128/loggix/LICENSE) file for more details.
 ```
